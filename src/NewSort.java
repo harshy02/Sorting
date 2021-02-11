@@ -9,6 +9,7 @@ public class NewSort {
                 array [i+1] = array [i];  
                 i--;  
             }  
+            
             array[i+1] = key;  
         }  
     }  
